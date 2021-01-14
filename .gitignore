@@ -1,0 +1,19 @@
+
+# Created by https://www.toptal.com/developers/gitignore/api/rubymine,vagrant
+# Edit at https://www.toptal.com/developers/gitignore?templates=rubymine,vagrant
+
+### RubyMine ###
+# User-specific stuff
+.idea/
+
+### Vagrant ###
+# General
+.vagrant/
+
+# Log files (if you are creating logs in debug mode, uncomment this)
+# *.log
+
+### Vagrant Patch ###
+*.box
+
+# End of https://www.toptal.com/developers/gitignore/api/rubymine,vagrant
